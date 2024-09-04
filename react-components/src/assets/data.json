@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "image": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/1.webp",
+    "type": "Grass",
+    "color": "#d1e8dd"
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "image": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/2.webp",
+    "type": "Poison",
+    "color": "#bbd4db"
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "image": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/3.webp",
+    "type": "Grass",
+    "color": "#dbd4d8"
+  },
+  {
+    "id": 4,
+    "name": "Charmender",
+    "image": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/4.webp",
+    "type": "Fire",
+    "color": "#f6ddcb"
+  }
+]
